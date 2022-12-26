@@ -8,7 +8,7 @@ const textConfig = {
   text7: "Good ghi điều ước cho tuổi mới vô đây",
   text8: "Gửi thông điệp lên vũ trụ",
   text9: "Có cái nịt gửi được, mở à kkkkk",
-  text10: "Kkk thoai nói chứ happy birthday bà,
+  text10: "Kkk thoai nói chứ happy birthday bà",
   text11:
     "Muốn nhận quà thêm thì ấn nút dưới",
   text12: "Nè đây nè",

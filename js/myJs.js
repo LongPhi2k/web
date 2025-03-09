@@ -7,7 +7,7 @@ const textConfig = {
   text6: "Ok nhận <333",
   text7: "Ghi những điều mong ước để bạn IT ban phát cho",
   text8: "Ấn gửi để bạn IT biến thành sự thật ",
-  text9: "Ước gì sớm cưới được anh IT tên Long",
+  text9: "Ước gì sớm cưới được anh IT tên Long, Hihihihihihihihi",
   text10: "Kkk thoai nói chứ chúc mừng 8/3 bé ewwwww",
   text11:
     "Muốn nhận quà thêm thì ấn nút dưới",

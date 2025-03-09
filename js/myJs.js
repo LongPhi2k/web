@@ -5,9 +5,9 @@ const textConfig = {
   text4: "Đố bạn ấn không được",
   text5: "Không bé ơi :)))",
   text6: "Ok nhận <333",
-  text7: "Good ghi điều ước cho tuổi mới vô đây",
-  text8: "Ghi những điều mong ước để bạn IT ban phát cho",
-  text9: "Có cái nịt, mơ à kkkkk, ước cho anh IT đẹp troai được roài",
+  text7: "Ghi những điều mong ước để bạn IT ban phát cho",
+  text8: "Ấn gửi để bạn IT biến thành sự thật ",
+  text9: "Ước gì sớm cưới được anh IT tên Long",
   text10: "Kkk thoai nói chứ chúc mừng 8/3 bé ewwwww",
   text11:
     "Muốn nhận quà thêm thì ấn nút dưới",
